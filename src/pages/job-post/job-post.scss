@@ -1,0 +1,37 @@
+page-job-post {
+
+    .toolbar-background {
+        background: linear-gradient(to right, #F39001 , #FBC117);
+    }
+
+    .toolbar-title {
+        color: #ffffff;
+    }
+
+    .title {
+        font-weight: bold;
+        color: #57585A;
+        font-size: 12px;
+    }
+
+    .btn {
+            color: $theme-color !important;
+            border-color: $theme-color !important;
+            margin: 10px 10px 0 10px !important;
+    }
+
+    .close-btn {
+        color: $theme-color !important;
+    }
+
+    .skill-name {
+        margin-right: 0;
+    }
+
+    ion-input {
+        font-size: 12px;
+    }
+
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+
+}

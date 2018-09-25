@@ -1,0 +1,21 @@
+page-post-dashboard {
+
+    .toolbar-background {
+        background: linear-gradient(to right, #F39001 , #FBC117);
+    }
+    
+    .toolbar-title {
+        color: #ffffff;
+        font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .add-fab {
+        right: 5px;
+        bottom: 5px;
+    }
+
+    .add-fab button {
+        font-size: 40px;
+        background-color: $theme-color;
+    }
+}
